@@ -5,3 +5,5 @@ A simple socket, remote control software made under Java platform. Implemented k
 
 NetBeans制作的Swing页面。
 Interface design with NetBeans.
+
+Packed JAR has been uploaded.
